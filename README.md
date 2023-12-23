@@ -20,3 +20,8 @@ The Cinema Room Manager is a Java console application that simulates the managem
 - Ticket prices are determined based on the seat's location: front half or back half of the cinema.
 - For a cinema room with more than 60 seats, pricing varies between the front and back half of the cinema.
 
+## Preview
+
+![image](https://github.com/dimicodes/Cinema-Room-Manager/assets/45632694/07df2d19-4e9b-42d7-b35e-a8505ae92b81)
+
+![image](https://github.com/dimicodes/Cinema-Room-Manager/assets/45632694/2a27c841-f356-4bf5-94b2-82c6d1d36b76)
